@@ -1,0 +1,52 @@
+{
+  "employess": [
+    {
+      "name": "grant alemdar",
+      "department": "bilisim",
+      "salary": "1000",
+      "id": 1
+    },
+    {
+      "name": "polat wick",
+      "department": "assassin",
+      "salary": "2300",
+      "id": 2
+    },
+    {
+      "name": "tommy",
+      "department": "gangster",
+      "salary": 5000,
+      "id": 6
+    },
+    {
+      "name": "Şeyma Özdemir",
+      "department": "Kedi eğitmeni",
+      "salary": "5",
+      "id": 7
+    },
+    {
+      "name": "Çaycı Hüseyin",
+      "department": "Çaycı",
+      "salary": 2345,
+      "id": 8
+    },
+    {
+      "name": "Polat Alemdar",
+      "department": "kedi derneği kurucusu",
+      "salary": 2345,
+      "id": 9
+    },
+    {
+      "name": "grant alemda",
+      "department": "bilisim",
+      "salary": 3000,
+      "id": 10
+    },
+    {
+      "name": "orcun",
+      "department": "enterteinment",
+      "salary": 2345,
+      "id": 11
+    }
+  ]
+}
